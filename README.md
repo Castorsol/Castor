@@ -1,4 +1,4 @@
-# Castrol
+# Castor
 x402 has no refund button. Castor is the refund button. Buyer protection for AI agents on Solana.
 <p align="center">
   <img src="assets/banner.png" alt="Castor — Stop the leak. Build the dam." width="100%" />
@@ -147,8 +147,7 @@ Coverage is capped by bond size. The seller loses the badge until it is topped u
 ## 🔗 Links
 
 - **X:** [@Castor_sol](https://x.com/Castor_sol)
-- **Website:** [YOUR DOMAIN]
-- **Docs:** [YOUR DOCS LINK]
+- **Website:** [castorsol.xyz
 - **$CSTR contract:** coming soon
 
 ## 🤝 Contributing
