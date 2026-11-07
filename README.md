@@ -1,8 +1,7 @@
 # Castor
 x402 has no refund button. Castor is the refund button. Buyer protection for AI agents on Solana.
 <p align="center">
-  <img src="assets/banner.png" alt="Castor — Stop the leak. Build the dam." width="100%" />
-</p>
+
 
 <h1 align="center">Castor</h1>
 
